@@ -3,7 +3,7 @@ A web app for generating the Implicit Association Test (IAT) running on Qualtric
 
 ## Online Web App
 The app is hosted by [Streamlit](https://streamlit.io/), a Python-based web framework. You can use the app here: 
-[Qualtrics IAT Tool](https://qualtrics-iat.streamlit.app//).
+[Qualtrics IAT Tool](https://qualtrics-iat-2026.streamlit.app//).
 
 ## Run Web App Offline
 Alternatively, you can run the app offline. The general steps are:
